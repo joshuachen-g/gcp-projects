@@ -2,6 +2,6 @@
 
 <button>Test Button</button>
 
-<a href="javascript:alert('Hi there')">Link</a>
+<a href="http://google.com">Link</a>
 
 :shipit:
