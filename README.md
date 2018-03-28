@@ -6,6 +6,8 @@
 
 :shipit:
 
-![apis_and_services](https://storage.googleapis.com/aju-dev-demos-codelabs/images/apis_and_services.png)
-
-![apis_and_services](https://storage.googleapis.com/aju-dev-demos-codelabs/images/apis_and_services.png){:height="36px" width="36px"}.
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
